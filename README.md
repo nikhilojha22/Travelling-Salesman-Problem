@@ -24,4 +24,4 @@
     The maximum of the 2-opt is set as 100. If N>100, it's better to flip more times than 100. 
 
 # P.S. 
-    If you want to run the code, you must edit the code for proper input file to get proper result.
+    If you want to run the code, you must edit the code for proper input file to get proper result in accordance with your need.
